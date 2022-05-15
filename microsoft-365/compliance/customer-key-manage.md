@@ -90,9 +90,9 @@ To create a DEP to use with a mailbox, follow these steps:
 
    - *Policy Description* is a user-friendly description of the policy that will help you remember what the policy is for. You can include spaces in the description. For example, "Root key for mailboxes in USA and its territories".
 
-   - *KeyVaultURI1* is the URI for the first key in the policy. For example, <https://contoso_EastUSvault01.vault.azure.net/keys/USA_key_01>.
+   - *KeyVaultURI1* is the URI for the first key in the policy. For example, https://contoso_EastUSvault01.vault.azure.net/keys/USA_key_01.
 
-   - *KeyVaultURI2* is the URI for the second key in the policy. For example, <https://contoso_EastUS2vault01.vault.azure.net/keys/USA_Key_02>. Separate the two URIs by a comma and a space.
+   - *KeyVaultURI2* is the URI for the second key in the policy. For example, https://contoso_EastUS2vault01.vault.azure.net/keys/USA_Key_02. Separate the two URIs by a comma and a space.
 
    Example:
   
